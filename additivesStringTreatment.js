@@ -3486,9 +3486,6 @@ var fullAdditivesString = `<tr>
             class="searchterm">Estabilizantes</span></td>
 </tr>`
 
-
-// var additivesGroupedList = stringSingleAdditive.split(/<tr>|<\/tr>/)
-
 var additivesReworkedList= []
 
 function reworkString(fullAdditivesString) {
@@ -3536,6 +3533,4 @@ function getValidChars (text) {
 
 // RUN HERE
 reworkString(fullAdditivesString)
-console.log(additivesReworkedList)
-
-
+console.log(JSON.stringify(additivesReworkedList))

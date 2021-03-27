@@ -1,0 +1,1899 @@
+[
+    {
+        "name": "E-100",
+        "type": "No nocivo",
+        "source": "Vegetal",
+        "additive": "Curcumina",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-101",
+        "type": "No nocivo",
+        "source": "Animal",
+        "additive": "Riboflavina",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-102",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Tartracina, Tartrazina, Tartrazine, Amarillo 5, Yellow 5",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-104",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Amarillo quinoleina, quinoline yellow",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-106",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Lactoflavina",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-110",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Amarillo naranja, sunset yellow",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-120",
+        "type": "¡Peligroso!",
+        "source": "Animal",
+        "additive": "Cochinilla",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-122",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Azorrubina, Carmoisina, Carmoisine, Red 3, Azorubina S, Brillantcarmoisin O, Acid Red 14, C.I. 14720",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-123",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Amaranto",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-124",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Ponceau 4R",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-127",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Eritrosina",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-128",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Rojo 2G",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-129",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Rojo allura AC, allura red",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-131",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Azul patentado",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-132",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Indigotina",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-133",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Azul",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-140",
+        "type": "No nocivo",
+        "source": "Vegetal",
+        "additive": "Clorofilas",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-141",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Compuesto de clorofila",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-142",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Verde ácido",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-150",
+        "type": "Sospechoso",
+        "source": "Indeterminado",
+        "additive": "Caramelo",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-151",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Negro brillante",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-153",
+        "type": "Sospechoso",
+        "source": "Indeterminado",
+        "additive": "Carbón vegetal o animal",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-154",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Marrón FK",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-155",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Marrón HT",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-160",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Carotenoides",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-161",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Xantofilas",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-162",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Betanina",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-163",
+        "type": "No nocivo",
+        "source": "Vegetal",
+        "additive": "Antocianinas",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-170",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Carbonato de calcio, Carbonato cálcico, Carbonato Ca",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-171",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Dióxido de Titanio",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-172",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Óxido de hierro, Óxido de Fe",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-173",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Aluminio",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-174",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Plata",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-175",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Oro",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-180",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Pigmento rojo",
+        "clasification": "Colorante"
+    },
+    {
+        "name": "E-200",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Ácido sórbico",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-201",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Sorbato de sodio, Sorbato sódico, Sorbato de Na",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-202",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sorbato de potasio, Sorbato potásico, Sorbato de K, Sal de potasio del ácido sórbico",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-203",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Sorbato de calcio, Sorbato cálcico, Sorbato Ca",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-210",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Ácido benzoico",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-211",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Benzoato de sodio, Benzoato sódico, Benzoato Na",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-212",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Benzoato de potasio, Benzoato potásico, Benzoato K",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-213",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Benzoato de calcio, Benzoato cálcico, Benzoato Ca",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-214",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "P-Hidroxilo Etilo",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-215",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Derivado H.E.",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-216",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Hidroxilo Propilo",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-217",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Derivado H.P.",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-218",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Hidroxilo Metilo",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-219",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Hidróxido M. de Na",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-220",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Anhídrido sulfuroso, Dióxido de azufre, Óxido de azufre (IV)",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-221",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sulfito de sodio, Sulfito sódico, Sulfito de Na",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-222",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Bisulfito de sodio, Bisulfito sódico, Bisulfito de Na",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-223",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Disulfito de sodio, Disulfito sódico, Disulfito de Na",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-224",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Bisulfito de potasio, Bisulfito de K, Disulfito de K, Metabisulfito potásico",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-225",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Disulfito de calcio, Disulfito cálcico, Disulfito Ca",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-226",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sulfito de calcio, Sulfito cálcico, Sulfito de Ca",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-227",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Bisulfito de calcio, Bisulfito cálcico, Bisulfito de Ca",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-228",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Sulfito ácido de potasio, Bisulfito de potasio",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-230",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Difenilo",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-231",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "O-fenifenol",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-232",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "O-fenilfenolato",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-233",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Tiabendazol",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-234",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Nisina",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-235",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Natamicina",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-236",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Ácido fórmico",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-237",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Formiato de sodio, Formiato sódico, Formiato Na",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-238",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Formiato de calcio, Formiato cálcico, Formiato Ca",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-239",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Hexametileno, Hexametilentetramina, Hexamina, Urotropina, Formamina, HMTA, Hexaformo, Metenamina",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-240",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Ácido bórico",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-241",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Tetraborato de potasio, Tetraborato potásico, Tetraborato K",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-242",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Dimetil dicar.",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-243",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Etil Lauroil Arginato",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-249",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Nitrito de potasio, Nitrito potásico, Nitrito de K",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-250",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Nitrito de sodio, Nitrito sódico, Nitrito de Na",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-251",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Nitrato de sodio, Nitrato sódico, Nitrato de Na",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-252",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Nitrato de potasio, Nitrato potásico, Nitrato de K",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-260",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Ácido acético",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-261",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Acetato de potasio, Acetato potásico, Acetato de K",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-262",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Diacetato de sodio, Diacetato sódico, Diacetato Na",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-263",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Acetato de calcio, Acetato cálcico, Acetato Ca",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-270",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Ácido láctico",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-280",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Ácido propilo",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-281",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Propionato de sodio, Propionato sódico, Propionato Na",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-282",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Propilo de calcio, Propilo cálcico, Propilo Ca",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-283",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Propionato de potasio, Propionato potásico, Propionato de K",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-284",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Ácido bórico",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-285",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Tetraborato de potasio, Tetraborato potásico, Tetraborato K",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-290",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Dióxido de carbono, Anhídrido carbónico, Gas carbónico",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-296",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ácido málico",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-297",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ácido fumárico",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-300",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Ácido ascórbico",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-301",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Ascorbato de sodio, Ascorbato sódico, Ascorbato de Na",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-302",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Ascorbato de calcio, Ascorbato cálcico, Ascorbato Ca",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-303",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Diácido ascórbico",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-304",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Palmitato Ascorbilo",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-306",
+        "type": "No nocivo",
+        "source": "Vegetal",
+        "additive": "Extracción Vegetal",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-307",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Alfa-Tocoferol",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-308",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Gamma-Tocoferol",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-309",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Delta-Tocoferol",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-310",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Galato de Propílico",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-311",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Galato de octilo, Gelato de octilo",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-312",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Galato dodecilo, Gelato dodecilo, Galato de laurilo",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-315",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ácido eritórbico",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-316",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Eritorbato de sodio, Eritorbato sódico, Eritorbato Na",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-320",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Butilhidroxianisol, Hidroxianisol butilado",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-321",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Butil hidroxitolueno, BHT",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-322",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Lecitina-N",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-325",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Lactato de sodio, Lactato sódico, Lactato de Na",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-326",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Lactato de potasio, Lactato potásico, Lactato de K",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-327",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Lactato de calcio, Lactato cálcico, Lactato Ca",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-330",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ácido cítrico",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-331",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Citrato de sodio, Citrato sódico, Citrato de Na",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-332",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Citrato de potasio, Citrato potásico, Citrato de K",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-333",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "citrato de calcio, Citrato cálcico, Citrato Ca",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-334",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Ácido tartárico",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-335",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Tartrato de sodio, Tartrato sódico, Tartrato de Na",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-336",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Tartrato de potasio, Tartrato potásico, Tartrato de K",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-337",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Tartrato...",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-338",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ácido ortofosfórico",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-339",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sales ortofosfóricas",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-340",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sales ortofosfóricas",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-341",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Ácido ortofosfórico",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-380",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Citrato triamónico",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-385",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "EDTA, Ácido etilendiaminotetraacético, Etilenodiamino tetracetato cálcico disódico, Tetra acetato disódico de etilendiamina",
+        "clasification": "Antioxidante"
+    },
+    {
+        "name": "E-400",
+        "type": "No nocivo",
+        "source": "Vegetal",
+        "additive": "Ácido algínico",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-401",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Alginato de sodio, Alginato sódico, Alginato de Na",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-402",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Alginato de potasio, Alginato potásico, Alginato de K",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-403",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Alginato...",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-404",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Alginato de calcio, Alginato cálcico, Alginato de Ca",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-405",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Alginato de propilenglicol, Alginato de propilenoglicol, PGA",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-406",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Agar-Agar",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-407",
+        "type": "¡Peligroso!",
+        "source": "Indeterminado",
+        "additive": "Carragenato, Carragenano, Carragenina",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-408",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Furcelerán",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-410",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Goma garrofin",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-411",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Harina tamari",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-412",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Goma guar",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-413",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Goma tragácica",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-414",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Goma arábica",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-415",
+        "type": "Sospechoso",
+        "source": "Vegetal",
+        "additive": "Goma xantana, Xantano",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-416",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Goma K.",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-417",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Goma tara",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-418",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Goma gellan",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-420",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Sorbitol",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-421",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Manitol",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-422",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Glicerina",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-431",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sorbitan",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-436",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sorbitan",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-440",
+        "type": "No nocivo",
+        "source": "Vegetal",
+        "additive": "Pectina",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-440a",
+        "type": "No nocivo",
+        "source": "Vegetal",
+        "additive": "Pectinas",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-440b",
+        "type": "Sospechoso",
+        "source": "Indeterminado",
+        "additive": "Pectina amidada",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-442",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Fosfátidos...",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-444",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Acetato isobutírico",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-445",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Éter glicólico",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-450",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Difosfatos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-450a",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Difosfatos disódicos pirofosfatos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-451",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Trifosfatos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-452",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Polifosfatos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-460",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Celulosa",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-461",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Metil celulosa",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-462",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Etilcelulosa",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-463",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Hidroxiprolina",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-464",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Hidroxi...",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-465",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Metiletilcelulosa",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-466",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Carboximetilcelulosa de Sodio",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-470",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sales de Ácidos Grasos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-470b",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sales de magnesio de Ácidos Grasos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-471",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Mono y Diglicéridos de Ácidos Grasos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-472",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ésteres de Ácidos Grasos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-473",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sucroésteres de Ácidos Grasos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-474",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sucroglicéridos de Ácidos Grasos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-475",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ésteres de Ácidos Grasos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-476",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Polirricinoleato de Ácidos Grasos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-477",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ésteres propano de Ácidos Grasos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-478",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Lacatato de Ácidos Grasos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-479",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Aceite soja oxid.",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-480",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ácido estérico",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-481",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Stearoil-2-lactato",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-482",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Stearoil-2-lactato, Calcio lactato",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-483",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Tartrato de Sterato, Tartrato esteárico",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-491",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Spans, Sorbitanos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-492",
+        "type": "¡Peligroso!",
+        "source": "Indeterminado",
+        "additive": "Triestearato de Sorbitán",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-495",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Spans",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-500",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Carbonato Na",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-501",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Carbonatos Ca",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-503",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Carbonato Amo.",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-504",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Carbonatos Mg",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-507",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ácido Clorhídrico",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-508",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Cloruro K",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-509",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Cloruro Ca",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-511",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Cloruro Mg",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-513",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ácido Sulfúrico",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-514",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sulfatos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-523",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sulfatos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-524",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Hidróx. de sales",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-528",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Hidróx. de sales",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-529",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Óxido de Ca",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-530",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Óxido Mg",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-535",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ferrocian. sales",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-536",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ferrocian. sales",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-541",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Fosfato ácido",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-542",
+        "type": "No nocivo",
+        "source": "Animal",
+        "additive": "Fosfato óseo",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-551",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Dióxido Silicio",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-552",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Silicato cálcico",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-553",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Talco",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-554",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Silicatos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-556",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Silicatos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-558",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Bentonita",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-559",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Silicato de Aluminio",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-570",
+        "type": "Sospechoso",
+        "source": "Indeterminado",
+        "additive": "Ácidos grasos",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-572",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Esterato Mg",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-574",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ácido glucónico",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-575",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Glucono-delto-...",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-576",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Glucon...",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-579",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Glucon...",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-585",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Lactato ferroso",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-620",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ácido glucónico",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-621",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Glutamatos",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-625",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Glutamatos",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-626",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Guanilatos",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-627",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Guanilato sódico",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-629",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Guanilatos",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-630",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Inosinatos",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-631",
+        "type": "Sospechoso",
+        "source": "Animal",
+        "additive": "Inosinato de sodio 5",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-633",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Inosinatos",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-634",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Ribonucleótidos discódicos",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-635",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Ribonucleótidos discódicos",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-636",
+        "type": "Sospechoso",
+        "source": "Indeterminado",
+        "additive": "Maltol",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-637",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Etil-maltol",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-640",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Glicina y su sal",
+        "clasification": "Saborizante"
+    },
+    {
+        "name": "E-900",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Dimetilpolixi...",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-901",
+        "type": "No nocivo",
+        "source": "Animal",
+        "additive": "Ceras",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-903",
+        "type": "No nocivo",
+        "source": "Indeterminado",
+        "additive": "Ceras",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-904",
+        "type": "Sospechoso",
+        "source": "Animal",
+        "additive": "Goma laca",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-912",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Ésteres...",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-913",
+        "type": "¡Peligroso!",
+        "source": "Animal",
+        "additive": "Lanolina",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-914",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Cera polietileno",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-920",
+        "type": "No nocivo",
+        "source": "Animal",
+        "additive": "L-Cisteína",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-921",
+        "type": "No nocivo",
+        "source": "Animal",
+        "additive": "L-Cisteína",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-927",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Carbamida",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-950",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Acesulfamo potásico",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-951",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Aspartamo (Fenilalanina)",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-952",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Ciclamatos",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-953",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Isolmaltitol",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-954",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sacarina",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-955",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Sucralosa",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-957",
+        "type": "Sospechoso",
+        "source": "Indeterminado",
+        "additive": "Taumatina",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-959",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Neohesperidina DC",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-960",
+        "type": "No nocivo",
+        "source": "Vegetal",
+        "additive": "Glicósidos de esteviol, Esteviósido, Extracto de Stevia",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-965",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Maltitol",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-966",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Lactitol",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-967",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Xilitol",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-968",
+        "type": "No nocivo",
+        "source": "Químico o sintético",
+        "additive": "Eritritol",
+        "clasification": "Edulcorante"
+    },
+    {
+        "name": "E-1000",
+        "type": "¡Peligroso!",
+        "source": "Animal",
+        "additive": "Ácido cólico",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1105",
+        "type": "Sospechoso",
+        "source": "Animal",
+        "additive": "Lisozima (Muramidasa)",
+        "clasification": "Conservante"
+    },
+    {
+        "name": "E-1200",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Polidextrosa",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1400",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Dextrina",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1401",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Almidón ácido",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1402",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Almidón alcalino modificado",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1403",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Almidón blanqueado",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1404",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Almidón oxidado",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1405",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Almidón enzimático",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1410",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Fosfato monoalmidón",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1412",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Fosfato dialmidón",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1413",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Fosfato dialmidón fosfatado",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1414",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Fosfato dialmidón acetilado",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1420",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Almidón acetilado",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1422",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Adipato dialmidón acetilado",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1440",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Hidroxipropil almidón",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1442",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Fosfato dialmidón hidroxipropilado",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1450",
+        "type": "Sospechoso",
+        "source": "Químico o sintético",
+        "additive": "Octenil succinato sódico de almidón",
+        "clasification": "Estabilizante"
+    },
+    {
+        "name": "E-1518",
+        "type": "¡Peligroso!",
+        "source": "Químico o sintético",
+        "additive": "Gliceril mono, di y tri-acetato de calcio",
+        "clasification": "Estabilizante"
+    }
+]
