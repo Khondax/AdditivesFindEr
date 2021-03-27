@@ -4,12 +4,15 @@ import { StyleSheet } from 'react-native';
 import EditScreenInfo from '../components/EditScreenInfo';
 import { Text, View } from '../components/Themed';
 
-export default function TabOneScreen() {
+import additivesJSON from "../constants/fullAdditivesList.json";
+
+export default function HomeScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Tab One</Text>
+      <Text style={styles.title}>Additives FindEr</Text>
       <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
-      <EditScreenInfo path="/screens/TabOneScreen.tsx" />
+      {/* <EditScreenInfo path="/screens/TabOneScreen.tsx" /> */}
+      <Text>Hola buenas tardes, aquí va un listado tope largo de aditivos alimentarios como el {additivesJSON[150].name} </Text>
     </View>
   );
 }
